@@ -1,0 +1,178 @@
+body {
+  background-color: rgb(0, 0, 0);
+}
+/* Nav styles */
+#nav-list {
+  background-color: black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 30px;
+  font-size: 20px;
+  text-align: center;
+  font-size: 15px;
+}
+.nav {
+  color: white;
+  display: inline;
+  padding-right: 60px;
+  margin-left: 100px;
+}
+#main-heading {
+  background-color: #414345;
+  padding: 12px 0px 12px 0px;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+#sub-heading {
+  background-color: #233c66;
+  padding: 10px 0px 10px 0px;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
+/* Slider Styles */
+
+#quote {
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/* Cards */
+.card-deck {
+  background-color: black;
+  margin-bottom: 50px;
+  margin: 0px 10px 20px 0px;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  grid-gap: 50px;
+  padding: 20px;
+}
+
+.img-card-top {
+  height: 100px;
+}
+.card-title {
+  text-align: center;
+}
+.explore-button {
+  margin-left: 35%;
+  background-color: #233c66;
+  color: white;
+}
+.card-body {
+  background-color: #414345;
+}
+.card-text {
+  color: white;
+}
+.card-title {
+  color: white;
+}
+#description {
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+/* Footer */
+.footer-bar {
+  background-color: black;
+}
+.footer-title {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.social-icon {
+  padding-bottom: 15px;
+}
+#snap {
+  margin-left: 430px;
+}
+/* filter */
+.filter-wrapper {
+  margin-left: 50px;
+  margin-top: 10px;
+}
+/* product cards */
+.productCard {
+  width: 280px;
+  display: inline-block;
+  margin: 0px 0px 0px 0px;
+  text-align: center;
+}
+.product-name {
+  color: white;
+}
+.productCard-img-top {
+  width: 280px;
+  height: 250px;
+}
+.productCard-body {
+  background-color: slategrey;
+  height: 300px;
+}
+.category {
+  color: black;
+  text-align: center;
+}
+.productCard-text {
+  text-align: center;
+  color: white;
+  padding: 0px 6px;
+}
+.price {
+  text-align: center;
+  color: black;
+  padding-bottom: 10px;
+}
+.pbtn {
+  margin-left: 18px;
+  margin-bottom: 60px;
+  background-color: #233c66;
+  padding: 5px;
+  border-radius: 15%;
+  color: white;
+}
+/* Video */
+video {
+  margin-top: 30;
+}
+/* contact page */
+.form-wrapper {
+  background-color: slategray;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  border-radius: 15%;
+  color: white;
+  margin-bottom: 50px;
+}
+#subscribe {
+  color: #233c66;
+  padding-bottom: 30px;
+}
+#testimonial-header {
+  text-align: center;
+  color: white;
+}
+#testimonial-wrapper {
+  background-color: #233c66;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+#customer-name {
+  color: white;
+  text-align: center;
+}
+#customer-testimonial {
+  color: white;
+  text-align: center;
+}
